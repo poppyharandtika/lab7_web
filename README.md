@@ -1,5 +1,7 @@
 # lab7_web
 Nama: Poppy Harandtika
+NIM : 311910687
+TI.19.C.1
 
 ![ss XAMPP](https://user-images.githubusercontent.com/56400553/117936810-23d8bd00-b2ba-11eb-8f47-9a87ce31c88d.png)
 
@@ -22,23 +24,25 @@ Menambahkan variable pada program
 Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan.php?nama=Poppy
 ![ss 3](https://user-images.githubusercontent.com/56400553/117936363-9dbc7680-b2b9-11eb-8857-ccd0880e88e6.png)
 
-Membuat Form Input
 ![ss 4](https://user-images.githubusercontent.com/56400553/117936394-a6ad4800-b2b9-11eb-9cf3-bea733419dc2.png)
 
-. Operator
+Membuat Form Input 
 ![ss 5](https://user-images.githubusercontent.com/56400553/117936420-af058300-b2b9-11eb-86f5-519e7e73dae7.png)
 
-Kondisi IF
+Operator 
 ![ss 6](https://user-images.githubusercontent.com/56400553/117936448-b75dbe00-b2b9-11eb-96be-72cc20a563c2.png)
 
-Kondisi Switch
+Kondisi IF
 ![ss 7](https://user-images.githubusercontent.com/56400553/117936479-bf1d6280-b2b9-11eb-9948-656258096bb8.png)
 
-Perulangan for
+Kondisi Switch 
 ![ss 8](https://user-images.githubusercontent.com/56400553/117936526-cfcdd880-b2b9-11eb-85df-5d10dec799b7.png)
 
-Perulangan while
+Perulangan for 
 ![ss 9](https://user-images.githubusercontent.com/56400553/117936549-d65c5000-b2b9-11eb-8acd-fa735843ec47.png)
+
+Perulangan while 
+![ss  11](https://user-images.githubusercontent.com/56400553/117936609-e8d68980-b2b9-11eb-9ee7-c1360f6d3638.png)
 
 Perulangan dowhile
 ![ss 10](https://user-images.githubusercontent.com/56400553/117936584-e07e4e80-b2b9-11eb-890d-3136483b9c01.png)
@@ -47,6 +51,6 @@ Perulangan dowhile
 
 Tugas!! 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan
-![ss  11](https://user-images.githubusercontent.com/56400553/117936609-e8d68980-b2b9-11eb-9ee7-c1360f6d3638.png)
+![ss 10](https://user-images.githubusercontent.com/56400553/117936584-e07e4e80-b2b9-11eb-890d-3136483b9c01.png)
 
 # lab7_web
