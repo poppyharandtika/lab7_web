@@ -3,11 +3,12 @@ Nama: Poppy Harandtika
 
 ![ss file php_dasar](https://user-images.githubusercontent.com/56400553/117936852-2fc47f00-b2ba-11eb-8aab-8ccb055cbb36.png)
 
+Buat folder lab7_php_dasar pada root directory web server (c:\xampp\htdocs)
+![ss folderr htdocs](https://user-images.githubusercontent.com/56400553/117936735-10c5ed00-b2ba-11eb-8c2a-9f0e70131c6a.png)
+
 ![ss XAMPP](https://user-images.githubusercontent.com/56400553/117936810-23d8bd00-b2ba-11eb-8f47-9a87ce31c88d.png)
 
 ![ss folder xampp](https://user-images.githubusercontent.com/56400553/117936778-1b808200-b2ba-11eb-9289-22f444530418.png)
-
-![ss folderr htdocs](https://user-images.githubusercontent.com/56400553/117936735-10c5ed00-b2ba-11eb-8c2a-9f0e70131c6a.png)
 
 ![ss folder lab7_php_dasar](https://user-images.githubusercontent.com/56400553/117936707-07d51b80-b2ba-11eb-9ec6-5d4b0b12c545.png)
 
