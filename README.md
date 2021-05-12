@@ -18,12 +18,12 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 
 ![ss folder lab7_php_dasar](https://user-images.githubusercontent.com/56400553/117936707-07d51b80-b2ba-11eb-9ec6-5d4b0b12c545.png)
 
-Menambahkan variable pada program
 ![ss 2](https://user-images.githubusercontent.com/56400553/117936321-95643b80-b2b9-11eb-90cf-84feab198f5b.png)
 
-Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan.php?nama=Poppy
+Menambahkan variable pada program 
 ![ss 3](https://user-images.githubusercontent.com/56400553/117936363-9dbc7680-b2b9-11eb-8857-ccd0880e88e6.png)
 
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan.php?nama=Poppy
 ![ss 4](https://user-images.githubusercontent.com/56400553/117936394-a6ad4800-b2b9-11eb-9cf3-bea733419dc2.png)
 
 Membuat Form Input 
